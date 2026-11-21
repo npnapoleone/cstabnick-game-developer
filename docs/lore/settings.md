@@ -11,7 +11,7 @@ A setting is a world that one or more games share. Each `## \`id\`` heading belo
 | `the-tall-house` | paragnormal |
 | `the-aether` | aether-board |
 | `unplaced` | peak-climb, gnome-sweet-gnome, water-flow |
-| `apocrypha` | gnome-company, giant-pup, tribute-schedule, gnome-theft-auto |
+| `apocrypha` | many-many-monkeys, gnome-company, giant-pup, tribute-schedule, gnome-theft-auto |
 | `none` | gnome-creator, prefab-gallery, sample-dodge, me |
 
 ## `core` Core
@@ -85,6 +85,8 @@ wants to share their world.
 ## `apocrypha` Apocrypha
 
 Parodies and one-offs. Their lore is theirs; no other game has to agree with it, and none of it becomes core.
+
+- `games/many-many-monkeys`: a literary workshop with Shakespeare and cash; future monkey staff wear gnome hats. These game-specific departures do not redefine clay gnomes or acorn wealth. The initial desk has no visible player body.
 
 - **Games:** `games/gnome-company` (Chapel of Mulch, a *Lethal Company* parody with Omnipresent Gnome Jesus);
   `games/giant-pup` (raise Gnome Company's Giant Goofy Fetch Dog); `games/tribute-schedule` (apartment horror built

@@ -57,4 +57,6 @@ Every task ends in a pull request; no need to ask.
 
 ## Delegating work
 
+When running in Codex, use [docs/codex-workflow.md](docs/codex-workflow.md) to adapt worker dispatch to the available models and tools. Keep the same bounded issues, file ownership and verification gates. The Claude workflow below remains unchanged for Claude sessions.
+
 This user's plan is small, so default to delegation: plan with the decompose skill, then run each issue with the `haiku-worker` agent, issues of one epic in parallel. Do small fixes yourself only when writing the issue would cost more than the fix.

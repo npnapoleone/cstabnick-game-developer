@@ -1,6 +1,22 @@
 import type { AchievementDef, EquipSlot } from './types';
 
 export const ACHIEVEMENTS: readonly AchievementDef[] = [
+  // ---- Many Many Monkeys ----
+  {
+    id: 'mmm-first-line', game: 'many-many-monkeys', gameTitle: 'Many Many Monkeys',
+    title: 'First Line', description: 'Complete your first line at the typewriter.',
+    reward: { slot: 'head', prefabId: 'bucket-helm', label: 'Bucket Helm' },
+  },
+  {
+    id: 'mmm-mechanic', game: 'many-many-monkeys', gameTitle: 'Many Many Monkeys',
+    title: 'Mechanic', description: 'Purchase a typewriter upgrade.',
+    reward: { slot: 'back', prefabId: 'leaf-cloak', label: 'Leaf Cloak' },
+  },
+  {
+    id: 'mmm-first-sonnet', game: 'many-many-monkeys', gameTitle: 'Many Many Monkeys',
+    title: 'First Sonnet', description: 'Complete your first sonnet.',
+    reward: { slot: 'head', prefabId: 'bucket-helm', label: 'Bucket Helm' },
+  },
   // ---- Gnome Golf ----
   {
     id: 'golf-nice',

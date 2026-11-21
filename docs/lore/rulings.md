@@ -361,3 +361,10 @@ different thing in a different setting. The Clockwork Frog is a Tall One's wind-
 machine that runs by itself. Shipped examine and dex lines that said otherwise were reworded with this ruling.
 **Applies to:** fescue, the-yard, gnomeokemon.  **Date:** 2026-11-20.
 **Why:** keeps rule 8's one engine and rule 6's one wantless thing, and lets the Iron element read as "the Mower's hum".
+
+## R-033
+
+**Question:** Where does Many, Many Monkeys belong, given Shakespeare, money, and future monkeys in gnome hats?
+**Ruling:** It is apocrypha. Its first desk is a literary workshop with a mechanical typewriter and cash rewards. Monkey staff and bananas belong to its later park, not this desk POC. Neither monkey biology nor cash replaces core clay gnomes or acorn wealth. Its first-person camera shows no player body.
+**Applies to:** apocrypha, many-many-monkeys. **Date:** 2026-11-21.
+**Why:** preserves the source game's typing premise without silently changing shared lore.
