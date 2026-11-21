@@ -31,6 +31,7 @@ Each is its own workspace: `index.html`, `vite.config.ts`, `src/main.ts`, `READM
 
 | Game | Title | Engine | Port | Online (`@lawn/mp`) | Slice | One line |
 |---|---|---|---|---|---|---|
+| `many-many-monkeys` | Many, Many Monkeys — The First Desk | three | 5215 | solo | deferred: spelling input | First-person mechanical typing, two sonnets, earned upgrades; `docs/roadmaps/many-many-monkeys.md` |
 | `sample-dodge` | Sample Dodge | Phaser | 5173 | | | Reference prototype; template for `npm run new` |
 | `sample-3d` | Lawn Gnome Panic | three | 5174 | yes (`lawn-gnome-panic`) | | 3D dodge mowers, collect acorns; battle royale (`src/br`) |
 | `aether-board` | Aether Board | three | 5195 | | | Snowboard floating islands, tricks; `?mode=descent` roguelite, `?mode=flood` water-surge mode (experimental, `src/flood`) |
@@ -111,6 +112,9 @@ Not every task touches these; open the file only when the condition applies.
 | Gear sync: other players seeing a customized gnome or its gear online (rosters, seats, `resolveLook` / `prefetchLooks`, `PlayerInfo.userId`, the `gnome` or `mp` packages) | [docs/gear-sync.md](docs/gear-sync.md) |
 
 ## Agent tooling
+
+- `docs/codex-workflow.md`: Codex model/dispatch adapter; retains the Claude workflow and shared validation rules.
+- `docs/roadmaps/many-many-monkeys.md`: bounded desk POC issues and recorded integration decisions.
 
 - `.claude/skills/decompose/SKILL.md`: planning skill (epics of parallel issues).
 - `.claude/agents/haiku-worker.md`: worker agent; `prompts/worker.md`: worker prompt. Workers never commit.

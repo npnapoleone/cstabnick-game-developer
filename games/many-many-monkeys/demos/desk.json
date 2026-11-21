@@ -1,0 +1,48 @@
+{
+  "url": "http://127.0.0.1:5215/",
+  "warmup": 2,
+  "size": [
+    960,
+    600
+  ],
+  "fps": 12,
+  "duration": 6,
+  "steps": [
+    {
+      "t": 0.5,
+      "click": [
+        480,
+        433
+      ]
+    },
+    {
+      "t": 1.0,
+      "hold": "forward",
+      "for": 1.2
+    },
+    {
+      "t": 2.4,
+      "press": "KeyE"
+    },
+    {
+      "t": 3.2,
+      "press": "KeyS"
+    },
+    {
+      "t": 3.6,
+      "press": "KeyH"
+    },
+    {
+      "t": 4.0,
+      "press": "KeyA"
+    },
+    {
+      "t": 4.4,
+      "press": "KeyL"
+    },
+    {
+      "t": 4.8,
+      "press": "KeyL"
+    }
+  ]
+}
